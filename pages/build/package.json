@@ -2,7 +2,15 @@
     "name":"build",
     "version":"1.0.0",
     "private":true,
-
+"dependencies":{
+        "react":"18.3.1",
+        "react-router-dom":"^6.24.1",
+        "react-scripts":"4.0.3",
+        "phospher-react":"^1.4.1",
+        "redux":"^5.0.1",
+        "react-redux":"9.1.2",
+        "axios":"1.7.2"
+    },
     "scripts":{
         "Start":"react-scripts start",
         "build":"react-scripts build",
