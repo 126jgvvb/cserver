@@ -1,0 +1,369 @@
+{
+  "fileName": "initialState-default",
+  "obj": {
+    "adminDetails": [],
+    "dynamicDiv": {
+      "adminUploads": [],
+      "files": []
+    },
+    "logChildren": [],
+    "behavior": [
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Data_length:81"
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Agent saved successfully...."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Database data still valid..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Agent saved successfully...."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "Item saved successfully..."
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "checking time...current Time:14:42"
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "checking time...current Time:14:43"
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "checking time...current Time:14:44"
+      },
+      {
+        "lastUpdated": "28-6-2024",
+        "message": "checking time...current Time:14:45"
+      }
+    ]
+  }
+}
