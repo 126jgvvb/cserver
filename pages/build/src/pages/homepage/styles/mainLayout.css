@@ -1,0 +1,598 @@
+@media screen and (max-width:404px){
+    .menu-button{
+        position: absolute;
+        left: 230%;
+    }
+
+    .gear{
+        margin-right: 5px;
+    }
+    
+    .mainlayout{
+        margin-top:35px;
+        display: block;
+    }
+    
+    .App::-webkit-scrollbar{
+        display: none;
+    }
+    
+    .firstColumn{
+        display: none;
+        position: absolute;
+        width: 40%;
+        margin-top: -10px;
+        margin-left: 60%;
+        color: white;
+        height: 500px;
+        background-color:  rgb(62, 58, 58);
+        z-index: 2;
+    }
+    
+    .firstColumn div{
+        padding: 12px;
+        padding-top: 32px;
+        border-style: solid;
+        border-color: rgb(76, 65, 65);
+        border-width: .2px;
+    }
+  /*  
+    .secondColumn{
+        width: 80%;
+        background-color: whitesmoke;
+    }
+    */
+     .tabDiv{
+        display: flex;
+        color: white;
+        position: absolute;
+        top:7%;
+        left: 8%;
+        width: 80%;
+        border-radius: 9px;
+        background-color:  rgb(62, 58, 58) ;
+        z-index: 2;
+    }
+/*
+    .adminDetailsH{
+        display: flex;
+        color: white;
+        position: absolute;
+        top:7%;
+        left: -43%;
+        width: 2%;
+        border-radius: 9px;
+        background-color:  rgb(62, 58, 58) ;
+    }
+
+.behaviorHeaderH{
+    display: flex;
+    color: white;
+    position: absolute;
+    top:7%;
+    left: -43%;
+    width: 2%;
+    border-radius: 9px;
+    background-color:  rgb(62, 58, 58) ;
+}
+*/
+    
+    .tabDiv div{
+        margin: 12px;
+        width: 50%;
+        border-style: solid;
+        border-radius: 5px;
+        border-width: .5px;
+        border-color: whitesmoke;
+    }
+    
+    .loggerDiv{
+        position: absolute;
+        width: 100%;
+        background-color: rgb(62, 58, 58);
+        color: green;
+        height: 150px;
+        margin-top: 94%;
+        border-style: solid;
+        border-radius: 12px;
+        border-color: rgb(165, 159, 159);
+        z-index: 3;
+    }
+    
+    .loggerDiv .console{
+        position: absolute;
+        margin-top: 7px;
+        width: 80%;
+        overflow: auto;
+        height: 130px;
+        background-color: black;
+        margin-left: 10%;
+        margin-right: 40px;
+        border-style: solid;
+        border-radius: 12px;
+        border-color: rgb(165, 159, 159);
+        
+    }
+    
+    .loggerDiv label{
+        display: block;
+    }
+    
+    /*
+    .vendorDetails,.behavior, .dynamicDiv,.adminDetails,.vendorDetailsH,.adminDetailsH,.behaviorHeaderH{
+        padding-top: -12px;
+        margin-top: -12px;
+        color: white;
+        margin-left: 10px;
+        width: 80%;
+        border-radius: 9px;
+        background-color:  rgb(62, 58, 58) ;
+    }
+    
+    .vendorDetails,.adminDetails,.behavior, .dynamicDiv{
+        position: absolute;
+        margin-left: 170%;
+        width:48%;
+    }*/
+    
+    .dynamicDiv{
+    position: absolute;
+    top: 10%;
+    left: 2%;
+        margin-left: 10%;
+        margin-top: 15%;  /*-145*/
+        margin-left: -1%;
+        width: 100%;
+        background-color:   rgb(201, 199, 199) ;
+        height: auto;
+        z-index: 1;
+        color: black;
+    /*height: 30%;
+    width: 60%;
+    position: absolute;
+    top: 20px;
+    overflow: auto;
+    background-color: yellow;
+   */ }
+    
+   
+    .vendorDetailsH label,.adminDetailsH label,.behaviorHeaderH{
+        display: none;
+    font-size: 22px;
+    font-weight: 20px;
+    /*margin-bottom: 12px;not working*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    /*
+    .vendorDetails label,.adminDetails label,.adminDetails em,.behavior label,.behavior em{
+        display: block;
+        font-size: 18px;
+        font-weight: 20px;
+        margin-bottom: 12px;
+        margin-left: -202px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+    */
+        .rowItem{
+            display: flex;
+            padding: 15px;
+            border-bottom-style: solid;
+            border-color: bisque;
+            border-width: .25px;
+          
+        }
+    
+        .admin-uploads .rowItem{
+            border-radius: 12px;
+            width: 770px;
+            height: 12px;
+            background-color:rgb(47, 63, 63);
+            margin-bottom: 4px;
+        }
+    
+    
+        input[value=download]{
+            border-radius: 5px;
+            background-color: rgb(18, 86, 18);
+            color: white;
+        }
+    
+        .downloadBtn{
+            border-radius: 5px;
+            background-color: rgb(18, 86, 18);
+            color: white;
+        }
+    
+        input[value=delete]{
+            border-radius: 5px;
+            background-color: rgb(131, 18, 18);
+            color: white;
+        }
+    /*
+        .rowItem label,.rowItem input{
+            margin-left:12px;
+        }
+    
+        .rowItem input:first-of-type{
+            margin-left: 200px;
+        }
+    */
+        .deleteBtn{
+            margin-left: 20%;
+            background-color: darkred;
+            color: white;
+            border-radius: 7px;
+        }
+    
+        .tab-active{
+            color: black;
+            background-color: whitesmoke;
+        }
+    
+    /*
+        .fileDiv label,.fileDiv div{
+            margin-left: -100px;
+        }
+    */
+        .fileDiv label{
+            font-size: 20px;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+    
+        .doneBtn{
+            width: 120px;
+            border-radius: 5px;
+        }
+    
+        .server-state{
+            margin-left: -2px;
+            width: 100%;
+            height: 150px;
+            background-color: black;
+            color: green;
+            position: absolute;
+            border-radius: 10px;
+            overflow: auto;
+        }
+    
+        .server-state label{
+            margin-left: 90px;
+            display: block;
+        }
+    
+        .dwnIcon{
+        margin-left: 10px;
+        display: inline-block;
+        } 
+    
+        .dynamicDiv .adminDetails div strong:last-child{
+            display: inline;
+            position: absolute;
+            float: right;
+        }
+    
+        .aside{
+            position: absolute;
+            top:150px
+        }
+    
+        .fileDiv{
+            z-index: 10;
+            width:100%;
+            background-color:rgb(12, 32, 32);
+            color: white;
+            margin-top: -16px;
+            border-radius: 10px;
+        }
+    
+        .admin-uploads{
+            overflow: hidden;
+            margin-top:10px;
+            position: relative;
+            width: 800px;
+            background-color:rgb(113, 111, 111);
+        }
+    
+        .dynamicDiv::-webkit-scrollbar{
+            display: none;
+        }
+     
+        .console::-webkit-scrollbar{
+            display: none;
+        }
+    
+    
+        .server-state::-webkit-scrollbar{
+            display: none;
+        }
+    
+        input[type=file]{
+            border-radius: 10px;
+        }
+
+        input[type=submit]{
+            height: 30px;
+            border-radius: 40px;
+        }
+
+        input[type=file],input[type=submit]{
+            background-color: darkslategray;
+            color: white;
+            margin-top: 20px;
+        }
+ 
+}
+
+
+
+
+
+/*bigger display*/
+
+@media screen and (min-width:600px){
+.gear{
+    margin-right: 5px;
+}
+
+.mainlayout{
+    margin-top:35px;
+    display: flex;
+}
+
+.menu-button{
+    display: none;
+}
+
+.App::-webkit-scrollbar{
+    display: none;
+}
+
+.firstColumn{
+    width: 40%;
+    margin-top: -12px;
+    margin-left: -150px;
+    color: white;
+    height: 584px;
+    background-color: rgb(62, 58, 58) ;
+}
+
+.firstColumn div{
+    padding: 12px;
+    border-style: solid;
+    border-color: rgb(76, 65, 65);
+    border-width: .2px;
+}
+
+.secondColumn{
+    width: 80%;
+    background-color: whitesmoke;
+}
+
+ .tabDiv{
+    display: flex;
+    color: white;
+    margin-left: 180px;
+    width: 80%;
+    border-radius: 9px;
+    background-color:  rgb(62, 58, 58) ;
+}
+
+.tabDiv div{
+    margin: 12px;
+    width: 50%;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: .5px;
+    border-color: whitesmoke;
+}
+
+.loggerDiv{
+    position: fixed;
+    width: 60%;
+    background-color:  rgb(62, 58, 58);
+    color: green;
+    height: 150px;
+    margin-left:150px;
+    margin-top: 26%;
+    border-style: solid;
+    border-radius: 12px;
+    border-color: rgb(165, 159, 159);
+}
+
+.loggerDiv .console{
+    position: absolute;
+    margin-top: 7px;
+    width: 80%;
+    overflow: auto;
+    height: 130px;
+    background-color: black;
+    margin-left: 60px;
+    margin-right: 40px;
+    border-style: solid;
+    border-radius: 12px;
+    border-color: rgb(165, 159, 159);
+    
+}
+
+.loggerDiv label{
+    display: block;
+}
+
+
+.vendorDetails,.behavior, .dynamicDiv,.adminDetails,.vendorDetailsH,.adminDetailsH,.behaviorHeaderH{
+    padding-top: 12px;
+    margin-top: 12px;
+    color: white;
+    margin-left: 170px;
+    width: 80%;
+    border-radius: 9px;
+    background-color:  rgb(62, 58, 58) ;
+}
+
+.vendorDetails,.adminDetails,.behavior, .dynamicDiv{
+    position: absolute;
+    width:48%;
+}
+
+.dynamicDiv{
+height: 300px;
+margin-left: 12%;
+width: 60%;
+overflow: auto;
+}
+
+.vendorDetailsH label,.adminDetailsH label,.behaviorHeaderH{
+font-size: 22px;
+font-weight: 20px;
+margin-bottom: 12px;/*not working*/
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.vendorDetails label,.adminDetails label,.adminDetails em,.behavior label,.behavior em{
+    display: block;
+    font-size: 18px;
+    font-weight: 20px;
+    margin-bottom: 12px;
+    margin-left: -202px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .rowItem{
+        display: flex;
+        padding: 15px;
+        border-bottom-style: solid;
+        border-color: bisque;
+        border-width: .25px;
+      
+    }
+
+    .admin-uploads .rowItem{
+        border-radius: 12px;
+        width: 770px;
+        height: 12px;
+        background-color:rgb(47, 63, 63);
+        margin-bottom: 4px;
+    }
+
+
+    input[value=download]{
+        border-radius: 5px;
+        background-color: rgb(18, 86, 18);
+        color: white;
+    }
+
+    .downloadBtn{
+        border-radius: 5px;
+        background-color: rgb(18, 86, 18);
+        color: white;
+    }
+
+    input[value=delete]{
+        border-radius: 5px;
+        background-color: rgb(131, 18, 18);
+        color: white;
+    }
+
+    .rowItem label,.rowItem input{
+        margin-left: 12px;
+    }
+
+    .rowItem input:first-of-type{
+        margin-left: 200px;
+    }
+
+    .deleteBtn{
+        margin-left: 200px;
+        background-color: darkred;
+        color: white;
+        border-radius: 7px;
+    }
+
+    .tab-active{
+        color: black;
+        background-color: whitesmoke;
+    }
+
+
+    .fileDiv label,.fileDiv div{
+        margin-left: -100px;
+    }
+
+    .fileDiv label{
+        font-size: 20px;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .doneBtn{
+        width: 120px;
+        border-radius: 5px;
+    }
+
+    .server-state{
+        margin-left: -80px;
+        width: 500px;
+        height: 150px;
+        background-color: black;
+        color: green;
+        position: absolute;
+        border-radius: 10px;
+        overflow: auto;
+    }
+
+    .server-state label{
+        margin-left: -190px;
+    }
+
+    .dwnIcon{
+    margin-left: 10px;
+    display: inline-block;
+    } 
+
+    .dynamicDiv .adminDetails div strong:last-child{
+        display: inline;
+        position: absolute;
+        float: right;
+    }
+
+    .aside{
+        position: absolute;
+        top:150px
+    }
+
+    .fileDiv{
+        z-index: 10;
+        width:800px;
+        background-color:rgb(12, 32, 32);
+        color: white;
+        margin-top: -16px;
+        border-radius: 10px;
+    }
+
+    .admin-uploads{
+        overflow: hidden;
+        margin-top:10px;
+        position: relative;
+        width: 800px;
+        background-color:rgb(113, 111, 111);
+    }
+
+    .dynamicDiv::-webkit-scrollbar{
+        display: none;
+    }
+ 
+    .console::-webkit-scrollbar{
+        display: none;
+    }
+
+
+    .server-state::-webkit-scrollbar{
+        display: none;
+    }
+
+    input[type=file],input[type=submit]{
+        background-color: darkslategray;
+        color: white;
+    }
+}
