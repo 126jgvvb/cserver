@@ -1,0 +1,128 @@
+name                             signature   hadLunch      batch           date
+
+ Mathias Atayebwa 	76767	No	Batch 04	2024-05-26 08:18:41.055138 
+
+Abaho jonah	21212	yes	Batch 01	2024-05-26 08:18:41.055138 
+
+Acoko Daphine	3232	No	Batch 05	2024-05-26 08:18:41.055138 
+
+Ainebyooona Hann	3443	No	Batch 03	2024-05-26 08:18:41.055138
+ 
+Ainembabazi Dor	2323	No	Batch 05	2024-05-26 08:18:41.055138 
+
+Aisu Racheal	343434	No	Batch 08	2024-05-26 08:18:41.055138
+ 
+Akankwatsa David?	32323	No	Batch 07	2024-05-26 08:18:41.055138
+ 
+Akello Gloria	33434	No	Batch 07	2024-05-26 08:18:41.055138 
+
+Amiso Miriam	5656	No	Batch 05	2024-05-26 08:18:41.055138 
+
+Apedeit Eunice	32323	No	Batch 07	2024-05-26 08:18:41.055138
+ 
+Ariko Joseph	23232	No	Batch 06	2024-05-26 08:18:41.055138 
+
+Aripa Simon Peter	2311	No	Batch 01	2024-05-26 08:18:41.055138 
+
+Ashiraf Mulongo 	23232	No	Batch 04	2024-05-26 08:18:41.055138
+ 
+Asiimwe Junior	4343	No	Batch 08	2024-05-26 08:18:41.055138 
+
+Atuhaire Loyce	12121	No	Batch 08	2024-05-26 08:18:41.055138
+ 
+Atuhaire Venny Va	65657	No	Batch 01	2024-05-26 08:18:41.055138
+ 
+Atuhaire Whitney	1212	No	Batch 06	2024-05-26 08:18:41.055138
+ 
+Audrey Ankunda 	3434	No	Batch 04	2024-05-26 08:18:41.055138
+ 
+Ayao Martha	54453	No	Batch 07	2024-05-26 08:18:41.055138
+ 
+Ayinebyoona David	4345	No	Batch 07	2024-05-26 08:18:41.055138
+ 
+Biira Jesca	45454	No	Batch 03	2024-05-26 08:18:41.055138 
+
+Brian Kisibo	23232	No	Batch 07	2024-05-26 08:18:41.055138 
+
+Buzaare Bella	2322	No	Batch 01	2024-05-26 08:18:41.055138
+ 
+Bwayo Travor	45454	No	Batch 07	2024-05-26 08:18:41.055138 
+
+Bwembale Locus	434	No	Batch 01	2024-05-26 08:18:41.055138 
+
+Chebose Doreen	2243	No	Batch 02	2024-05-26 08:18:41.055138
+ 
+Deogratias Muhum	23232	No	Batch 08	2024-05-26 08:18:41.055138 
+
+Elupe Lucy	5465	No	Batch 08	2024-05-26 08:18:41.055138 
+
+Emagat Paul	2323	No	Batch 07	2024-05-26 08:18:41.055138
+ 
+Enyimu Enoch	4343	No	Batch 02	2024-05-26 08:18:41.055138 
+
+Faith Awor	54545	No	Batch 06	2024-05-26 08:18:41.055138 
+
+Geofrey Egesa 	2332	No	Batch 04	2024-05-26 08:18:41.055138
+ 
+Hope Rhita	45465	No	Batch 01	2024-05-26 08:18:41.055138 
+
+Irene Nawiwo	34343	No	Batch 04	2024-05-26 08:18:41.055138 
+
+Jacob Somo	545	No	Batch 07	2024-05-26 08:18:41.055138
+ 
+Jovan Mulijo	434343	No	Batch 04	2024-05-26 08:18:41.055138 
+
+Kakaire Arnold	21212	yes	Batch 08	2024-05-26 08:18:41.055138 
+
+Kasibante Alifadhul	2121	No	Batch 03	2024-05-26 08:18:41.055138
+ 
+Kaudha Esther	4334	No	Batch 06	2024-05-26 08:18:41.055138
+ 
+Kawala Gloria	6565	No	Batch 07	2024-05-26 08:18:41.055138 
+
+Kazungu Ismail	343435	No	Batch 07	2024-05-26 08:18:41.055138
+ 
+Kibuuka Racheal	32323	No	Batch 06	2024-05-26 08:18:41.055138
+ 
+Kisyakye Viola	45443	No	Batch 02	2024-05-26 08:18:41.055138 
+
+Kyakunda Hope	3444	No	Batch 01	2024-05-26 08:18:41.055138
+ 
+Kyarimpa Stella	2323	No	Batch 06	2024-05-26 08:18:41.055138 
+
+Lanyero Faith	2121	No	Batch 07	2024-05-26 08:18:41.055138 
+
+Lindah Nakidodo	565	No	Batch 01	2024-05-26 08:18:41.055138
+ 
+Madudu Beatrice	5655	No	Batch 07	2024-05-26 08:18:41.055138 
+
+Moureen Nankya 	54454	No	Batch 04	2024-05-26 08:18:41.055138 
+
+Mudondo Alice	6565	No	Batch 05	2024-05-26 08:18:41.055138 
+
+Mugwisagye Ritah	4343	No	Batch 08	2024-05-26 08:18:41.055138
+ 
+Mukasa Kevin Brian	656	No	Batch 03	2024-05-26 08:18:41.055138 
+
+Muyingo Enoch	434	No	Batch 08	2024-05-26 08:18:41.055138 
+
+Nabatanzi Shamirah	5656	No	Batch 06	2024-05-26 08:18:41.055138
+ 
+Nakayiza Shakirah	43434	No	Batch 08	2024-05-26 08:18:41.055138
+ 
+Namara Kenneth S	454546	No	Batch 07	2024-05-26 08:18:41.055138
+ 
+Naula Jenipher	3232323	No	Batch 02	2024-05-26 08:18:41.055138 
+
+Naziriwo bashira	5454	No	Batch 01	2024-05-26 08:18:41.055138 
+
+Ndagire Irene	2323	No	Batch 05	2024-05-26 08:18:41.055138 
+
+ 
+Tinka Daisy	2323	No	Batch 03	2024-05-26 08:18:41.055138 
+
+Turyasingura For	343434	No	Batch 02	2024-05-26 08:18:41.055138 
+
+Utunga Sheilla	565	No	Batch 07	2024-05-26 08:18:41.055138 
+
+Wejuli Paul	6656	No	Batch 06	2024-05-26 08:18:41.055138

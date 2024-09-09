@@ -12,7 +12,7 @@ cluster.setupMaster({exec:__dirname+'/mealServer.js'});
         console.log('Master process started...');
         console.log('cpu count:'+cpuNo);
     
-    for(let i=0; i<cpuNo; ++i){
+    for(let i=0; i<1; ++i){
         cluster.fork([env]);
     }
     }

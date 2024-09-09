@@ -1,17 +1,21 @@
 {
-    "name":"codedserver2",
-    "version":"1.0.0",
-    "description":"second backend server",
-    "main":"main.js",
-    "scripts":{
-        "start":"node main.js",
-        "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false npm install --prefix pages/build && npm run build --prefix pages/build"
+    "name": "codedserver2",
+    "version": "1.0.0",
+    "description": "second backend server",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js",
+        "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix pages/build && npm run build --prefix pages/build",
+        "test": "jest"
     },
-    "dependencies":{
-        "express":"^4.17.1",
-        "path":"^0.12.7"
+    "dependencies": {
+        "express": "^4.17.1",
+        "path": "^0.12.7"
     },
-    "engines":{
-        "node":"14.x"
+    "engines": {
+        "node": "14.x"
+    },
+    "devDependencies": {
+        "jest": "^29.7.0"
     }
 }
