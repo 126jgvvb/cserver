@@ -37,11 +37,11 @@ Copy this folder and navigate to the nodeJS enviroment folder and paste this fol
          /getAgents{ID,date}
 
 ## Scripts
-## To initiate the server,type the following command using node.exe found in the node directory
+ To initiate the server,type the following command using node.exe found in the node directory
 command: ".load cserver/main.js"
 
 ## Contacts
-## For inquiries please feel free to contact me on the following links:
+ For inquiries please feel free to contact me on the following links:
 Email:wadikakevin@gmail.com
 whatsapp: +256741882818
 
